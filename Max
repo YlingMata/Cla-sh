@@ -1,5 +1,4 @@
-# 内容：MAX
-# 数量：9条
+# MAX视频分流规则
 DOMAIN,api.apptentive.com
 DOMAIN,sdk.iad-01.braze.com
 DOMAIN,services.brightline.tv
